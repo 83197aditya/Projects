@@ -1,11 +1,9 @@
-Hello! I'm Aditya Vishwakarma, a passionate Software Engineer with over 3 years of professional experience in developing and automating solutions. Currently working at Accenture, I specialize in automation testing, agile development, and web application technologies, with a focus on the .NET framework and Sitecore Experience Platform.
-
-My core expertise includes creating and enhancing over 1500 SpecFlow automation test scripts for QA environments, which have significantly streamlined build verification testing efforts. I have extensive experience in working with CMS platforms like Sitecore for content management, along with Azure DevOps for test case management and defect tracking.
-
+Hello! I'm Aditya Vishwakarma, a passionate Software Engineer with over 3 years of professional experience in developing and automating solutions. 
+Currently working at Accenture, I specialize in automation testing, agile development, and web application technologies, with a focus on the .NET framework and Sitecore Experience Platform.
+My core expertise includes creating and enhancing over 1500 SpecFlow automation test scripts for QA environments, which have significantly streamlined build verification testing efforts. 
+I have extensive experience in working with CMS platforms like Sitecore for content management, along with Azure DevOps for test case management and defect tracking.
 I enjoy working in collaborative environments and have contributed to the development of new functionalities, documentation of processes, and testing for various scenarios, including personalization, analytics, GDPR compliance, and performance testing.
-
 Feel free to explore my GitHub repositories, where I share projects related to automation testing, Java Spring, Sitecore CMS, and more!
-
 Key Skills:
 Java Spring Framework (Spring Boot, Spring MVC)
 Rest API Development
